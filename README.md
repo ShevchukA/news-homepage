@@ -33,16 +33,13 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
 - Flexbox
 - CSS Grid
-
 
 ### What I learned
 
 - Margin top and bottom doesn't work with inline elements -> need to be changed to 'block' types.
 - Align-content works with multiple rows, align-items works with single line.
-- 
 
 ### Continued development
 
